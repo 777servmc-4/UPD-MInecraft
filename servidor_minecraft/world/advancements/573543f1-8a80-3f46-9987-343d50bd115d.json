@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-14 16:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-10-14 16:08:28 +0000",
+      "minecraft:mangrove_swamp": "2024-10-14 16:08:35 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3953
+}
